@@ -1,6 +1,6 @@
 # TASK-6: Basic HTML Website
 
-This is a basic HTML website created as part of Task 6. It includes only an `index.html` file with a simple layout. The main purpose of this project is to understand:
+This is a static website hosted using github pages. It includes only an `index.html` file with a simple layout. The main purpose of this project is to understand:
 
 - How to use Git and GitHub for version control
 - How to manage repositories using GitHub CLI
